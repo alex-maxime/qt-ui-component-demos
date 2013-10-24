@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:25:05 2011) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" width="20px" x="0px" version="1.1" y="0px" height="20px" viewBox="0 0 20 20" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" id="Layer_1" xml:space="preserve">
+ <path fill-opacity="0.15" d="M10,1c-6.477,0-9,2.523-9,9s2.523,9,9,9s9-2.523,9-9S16.477,1,10,1L10,1z"/>
+ <path fill="#64AB2D" d="M18,10c0,5.925-2.072,8-8,8c-5.93,0-8-2.075-8-8c0-5.929,2.07-8,8-8C15.928,2,18,4.071,18,10z"/>
+ <g stroke-opacity="0.3" fill-opacity="0.3">
+  <linearGradient id="SVGID_1_" y1="2" x1="9.9995" y2="18.0005" gradientUnits="userSpaceOnUse" x2="9.9995">
+   <stop offset="0" style="stop-color:#FFFFFF"/>
+   <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M18,10c0,5.925-2.072,8-8,8c-5.93,0-8-2.075-8-8c0-5.929,2.07-8,8-8C15.928,2,18,4.071,18,10z"/>
+ </g>
+</svg>

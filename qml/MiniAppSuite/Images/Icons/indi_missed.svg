@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:25:05 2011) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" width="30px" x="0px" version="1.1" y="0px" height="30px" viewBox="0 0 30 30" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" id="Layer_1" xml:space="preserve">
+ <rect width="30" fill="none" height="30"/>
+ <path fill="#E43430" d="M30,15C30,3.886,26.112,0,15,0C3.885,0,0,3.886,0,15c0,11.112,3.885,15,15,15C26.112,30,30,26.112,30,15z"/>
+ <path fill="#FFFFFF" d="M20.408,6l-4.963,8.906l3.34-0.002v1.301c0,2.457-2.001,4.455-4.454,4.455c-2.456,0-4.456-1.998-4.456-4.455&#xd;&#xa;&#x9;v-1.982c0-0.441-0.358-0.8-0.799-0.8h-1.74c-0.438,0-0.802,0.358-0.802,0.8v2.052c0,0.02,0.006,0.042,0.009,0.065&#xd;&#xa;&#x9;C6.616,20.581,10.068,24,14.331,24c4.302,0,7.795-3.489,7.795-7.795v-1.301h3.34L20.408,6z"/>
+</svg>
