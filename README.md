@@ -37,16 +37,13 @@ What's new in version 2.0
 - Time
 - Tumblers
 
-This example application is hosted in Nokia Developer Projects:
-- http://projects.developer.nokia.com/uivisualisation
 
 This example application demonstrates:
 - The proper use of UI elements and interaction patterns based on the Symbian
   Design Guidelines
 - Various use cases of Qt Quick Components
 
-For more information on implementation, visit the wiki pages:
-- http://projects.developer.nokia.com/uivisualisation/wiki
+For more information on implementation, visit the wiki.
 
 
 1. Project structure and implementation
@@ -55,66 +52,66 @@ For more information on implementation, visit the wiki pages:
 1.1 Folders
 -----------
 
- |                          The root folder contains the project file, the
- |                          license information and this file (release notes).
- |
- |- bin                     Contains the installable Symbian binaries.
- |
- |- qml
- |  |
- |  |- MiniAppSuite             Root folder for QML and Javascript files.
- |     |
- |     |- ArrangeItems          ArrangeItems mini app root folder
- |     |
- |     |- Buttons               Buttons mini app root folder
- |     |
- |     |- DeleteMultiple        DeleteMultiple mini app root folder
- |     |
- |     |- Dialogs               Dialogs mini app root folder
- |     |
- |     |- DirectText            DirectText mini app root folder
- |     |
- |     |- DrillDown             DrillDown mini app root folder	
- |     |
- |     |- EmptyContent          EmptyContent mini app root folder
- |     |
- |     |- FastScrolling         FastScrolling mini app root folder
- |     |
- |     |- HeaderButton          HeaderButton mini app root folder
- |     |
- |     |- ImageControl          ImageControl mini app root folder
- |     |
- |     |- Images                Folder containing graphics
- |     |
- |     |- InfoBanner            InfoBanner mini app root folder
- |     |
- |     |- ListItems             ListItems mini app root folder
- |     |
- |     |- Menus                 Menus mini app root folder
- |     |
- |     |- ProgressIndicators    ProgressIndicators mini app root folder
- |     |
- |     |- SafeText              SafeText mini app root folder
- |     |
- |     |- Search                Search mini app root folder
- |     |
- |     |- Sliders               Sliders mini app root folder
- |     |
- |     |- StickyTabs            StickyTabs mini app root folder
- |     |
- |     |- TabBars               TabBars mini app root folder
- |     |
- |     |- Tabs                  Tabs mini app root folder
- |     |
- |     |- Time                  Time mini app root folder
- |     |
- |     |- ToolBars              ToolBars mini app root folder
- |     |
- |     |- ToolBarTabs           ToolBarTabs mini app root folder
- |     |
- |     |- Tumblers              Tumblers mini app root folder
- |     |
- |     |- Wizard                Wizard mini app root folder
+<br /> |                          The root folder contains the project file, the
+<br /> |                          license information and this file (release notes).
+<br /> |
+<br /> |- bin                     Contains the installable Symbian binaries.
+<br /> |
+<br /> |- qml
+<br /> |  |
+<br /> |  |- MiniAppSuite             Root folder for QML and Javascript files.
+<br /> |     |
+<br /> |     |- ArrangeItems          ArrangeItems mini app root folder
+<br /> |     |
+<br /> |     |- Buttons               Buttons mini app root folder
+<br /> |     |
+<br /> |     |- DeleteMultiple        DeleteMultiple mini app root folder
+<br /> |     |
+<br /> |     |- Dialogs               Dialogs mini app root folder
+<br /> |     |
+<br /> |     |- DirectText            DirectText mini app root folder
+<br /> |     |
+<br /> |     |- DrillDown             DrillDown mini app root folder	
+<br /> |     |
+<br /> |     |- EmptyContent          EmptyContent mini app root folder
+<br /> |     |
+<br /> |     |- FastScrolling         FastScrolling mini app root folder
+<br /> |     |
+<br /> |     |- HeaderButton          HeaderButton mini app root folder
+<br /> |     |
+<br /> |     |- ImageControl          ImageControl mini app root folder
+<br /> |     |
+<br /> |     |- Images                Folder containing graphics
+<br /> |     |
+<br /> |     |- InfoBanner            InfoBanner mini app root folder
+<br /> |     |
+<br /> |     |- ListItems             ListItems mini app root folder
+<br /> |     |
+<br /> |     |- Menus                 Menus mini app root folder
+<br /> |     |
+<br /> |     |- ProgressIndicators    ProgressIndicators mini app root folder
+<br /> |     |
+<br /> |     |- SafeText              SafeText mini app root folder
+<br /> |     |
+<br /> |     |- Search                Search mini app root folder
+<br /> |     |
+<br /> |     |- Sliders               Sliders mini app root folder
+<br /> |     |
+<br /> |     |- StickyTabs            StickyTabs mini app root folder
+<br /> |     |
+<br /> |     |- TabBars               TabBars mini app root folder
+<br /> |     |
+<br /> |     |- Tabs                  Tabs mini app root folder
+<br /> |     |
+<br /> |     |- Time                  Time mini app root folder
+<br /> |     |
+<br /> |     |- ToolBars              ToolBars mini app root folder
+<br /> |     |
+<br /> |     |- ToolBarTabs           ToolBarTabs mini app root folder
+<br /> |     |
+<br /> |     |- Tumblers              Tumblers mini app root folder
+<br /> |     |
+<br /> |     |- Wizard                Wizard mini app root folder
  |
 
 
@@ -237,7 +234,7 @@ Qt Quick Components
 - http://doc.qt.nokia.com/qt-components-symbian-1.1/index.html
 
 Symbian Design Guidelines
-- http://www.developer.nokia.com/Resources/Library/Symbian_Design_Guidelines/
+- http://developer.nokia.com/Resources/Library/Symbian_Design_Guidelines/
 
 
 6. Version history
